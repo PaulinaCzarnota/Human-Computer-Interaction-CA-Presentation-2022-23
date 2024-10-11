@@ -1,4 +1,4 @@
-This repository contains my team's first Continuous Assessment presentation for the **Human-Computer Interaction** module, completed in the second year of our Computer Science program at **TU Dublin**.
+This repository contains my team's first Continuous Assessment presentation for the Human-Computer Interaction module, completed in the second year of our Computer Science program at TU Dublin.
 
 ## Project Overview
 
