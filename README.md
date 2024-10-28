@@ -1,6 +1,6 @@
 This repository contains my team's first Continuous Assessment presentation for the Human-Computer Interaction module, completed in the second year of our Computer Science program at TU Dublin.
 
-## Project Overview
+# Project Overview
 
 Our presentation focused on understanding the challenges faced by users when interacting with digital products, using the **Daily Mail** website as a case study. Our goal was to gain empathy for users who struggle to complete tasks due to design flaws, and to propose potential improvements. This project served as the foundation for our work in CA 2, where we developed new design solutions.
 
