@@ -4,7 +4,7 @@ This repository contains my team's first Continuous Assessment presentation for 
 
 Our presentation focused on understanding the challenges faced by users when interacting with digital products, using the **Daily Mail** website as a case study. Our goal was to gain empathy for users who struggle to complete tasks due to design flaws, and to propose potential improvements. This project served as the foundation for our work in CA 2, where we developed new design solutions.
 
-## Presentation Highlights
+# Presentation Highlights
 - **Problem Identification**: We identified specific usability challenges on the Daily Mail website that hinder user task completion.
 - **User Research**: Conducted user research and desk research to gather insights on common user pain points.
 - **Persona Development**: Created detailed personas and empathy maps to visualize user experiences and motivations.
